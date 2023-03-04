@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#myfavoritemovie {
+  background-color: #e2edff;
+}
+
+#contact {
+  background-color: white;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+* {
+  font-family: 'Shantell Sans', cursive;
+}
